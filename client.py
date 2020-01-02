@@ -3,7 +3,7 @@ import socket
 import subprocess
 
 s = socket.socket()
-host = '192.168.0.14' #IP Address of server over which TCP|Connection is been Established
+host = '10.0.2.15' #IP Address of server over which TCP|Connection is been Established
 port = 9999
 
 s.connect((host,port))
