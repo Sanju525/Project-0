@@ -1,5 +1,0 @@
-MarkupSafe==0.23
-gnureadline==6.3.3
-itsdangerous==0.24
-rauth==0.7.0
-wsgiref==0.1.2
